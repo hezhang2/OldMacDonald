@@ -1,6 +1,6 @@
-
-void setup()
-{
-	//your variable declarations here
+//Helen Zhang, Block 1, OldMacDonald
+void setup(){
+	Farm f=new Farm();
+	f.animalSounds();
 }
 
